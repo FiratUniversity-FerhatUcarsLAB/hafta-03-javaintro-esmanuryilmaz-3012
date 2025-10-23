@@ -12,9 +12,10 @@ public class IsimKarti {
         System.out.println(" OGRENCİ BILGILERI ");
         System.out.println("========================");
         System.out.println("Adı        :" + ad);
-        System.out.println("Soyadı      :" + soyad);
+        System.out.println("Soyadı     :" + soyad);
         System.out.println("Ogrenci No :" + ogrNo);
         System.out.println("Bolumu     :" + bolum);
         System.out.println("========================");
     }
 }
+
